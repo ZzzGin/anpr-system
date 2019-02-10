@@ -1,0 +1,29 @@
+﻿  Plate.cpp
+d:\graduationproject\ocrxml\ocrxml\ocrxml\plate.cpp(15): warning C4018: “<”: 有符号/无符号不匹配
+d:\graduationproject\ocrxml\ocrxml\ocrxml\plate.cpp(19): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+d:\graduationproject\ocrxml\ocrxml\ocrxml\plate.cpp(21): warning C4018: “<”: 有符号/无符号不匹配
+d:\graduationproject\ocrxml\ocrxml\ocrxml\plate.cpp(22): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\graduationproject\ocrxml\ocrxml\ocrxml\plate.cpp(24): warning C4018: “<”: 有符号/无符号不匹配
+d:\graduationproject\ocrxml\ocrxml\ocrxml\plate.cpp(26): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\graduationproject\ocrxml\ocrxml\ocrxml\plate.cpp(35): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+d:\graduationproject\ocrxml\ocrxml\ocrxml\plate.cpp(36): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+d:\graduationproject\ocrxml\ocrxml\ocrxml\plate.cpp(37): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\graduationproject\ocrxml\ocrxml\ocrxml\plate.cpp(38): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\graduationproject\ocrxml\ocrxml\ocrxml\plate.cpp(40): warning C4018: “<”: 有符号/无符号不匹配
+  OCR.cpp
+d:\graduationproject\ocrxml\ocrxml\ocrxml\ocr.h(15): error C2871: “ml”: 具有该名称的命名空间不存在
+d:\graduationproject\ocrxml\ocrxml\ocrxml\ocr.h(58): error C2065: “ANN_MLP”: 未声明的标识符
+d:\graduationproject\ocrxml\ocrxml\ocrxml\ocr.h(58): error C2923: “cv::Ptr”: 对于参数“_Tp”，“ANN_MLP”不是有效的 模板 类型变量
+d:\graduationproject\ocrxml\ocrxml\ocrxml\ocr.h(59): warning C4624: “OCR”: 已将析构函数隐式定义为“已删除”
+d:\graduationproject\ocrxml\ocrxml\ocrxml\ocr.h(58): error C2653: “ANN_MLP”: 不是类或命名空间名称
+d:\graduationproject\ocrxml\ocrxml\ocrxml\ocr.h(58): error C3861: “create”: 找不到标识符
+d:\graduationproject\ocrxml\ocrxml\ocrxml\ocr.h(58): fatal error C1903: 无法从以前的错误中恢复；正在停止编译
+  main.cpp
+d:\graduationproject\ocrxml\ocrxml\ocrxml\ocr.h(15): error C2871: “ml”: 具有该名称的命名空间不存在
+d:\graduationproject\ocrxml\ocrxml\ocrxml\ocr.h(58): error C2065: “ANN_MLP”: 未声明的标识符
+d:\graduationproject\ocrxml\ocrxml\ocrxml\ocr.h(58): error C2923: “cv::Ptr”: 对于参数“_Tp”，“ANN_MLP”不是有效的 模板 类型变量
+d:\graduationproject\ocrxml\ocrxml\ocrxml\ocr.h(59): warning C4624: “OCR”: 已将析构函数隐式定义为“已删除”
+d:\graduationproject\ocrxml\ocrxml\ocrxml\ocr.h(58): error C2653: “ANN_MLP”: 不是类或命名空间名称
+d:\graduationproject\ocrxml\ocrxml\ocrxml\ocr.h(58): error C3861: “create”: 找不到标识符
+d:\graduationproject\ocrxml\ocrxml\ocrxml\ocr.h(58): fatal error C1903: 无法从以前的错误中恢复；正在停止编译
+  正在生成代码...
